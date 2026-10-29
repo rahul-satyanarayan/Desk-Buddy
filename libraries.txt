@@ -1,0 +1,6 @@
+# Library Name                      | Minimum Version | Source
+Adafruit SH110X                     | >= 2.1.10       | Arduino Library Manager / Adafruit
+Adafruit GFX Library                | >= 1.11.9       | Arduino Library Manager / Adafruit
+RTClib                              | >= 2.1.4        | Arduino Library Manager / Adafruit
+DHT sensor library                  | >= 1.4.6        | Arduino Library Manager / Adafruit
+Adafruit Unified Sensor             | >= 1.1.14       | Arduino Library Manager / Adafruit
